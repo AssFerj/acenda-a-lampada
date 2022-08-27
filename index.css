@@ -1,3 +1,7 @@
+body{
+    background-color: #262626;
+    color: #faebd7;
+}
 .container {
     height: 90vh;
     display: flex;
